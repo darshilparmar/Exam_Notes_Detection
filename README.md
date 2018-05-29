@@ -9,15 +9,12 @@ System contains 4 python files, 1 trained model file and 2 folders.
 I have used LeNet Convolutional Neural Networks and Keras.
 
 ### Prerequisites
+```
 Keras
 Scikit
 cv2
 matplotlib
 imutils
-
-
-```
-Give examples
 ```
 
 ### Installing
